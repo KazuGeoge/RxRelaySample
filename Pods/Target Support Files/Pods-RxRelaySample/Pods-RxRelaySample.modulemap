@@ -1,0 +1,6 @@
+module Pods_RxRelaySample {
+  umbrella header "Pods-RxRelaySample-umbrella.h"
+
+  export *
+  module * { export * }
+}
